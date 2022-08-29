@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+# Nathan Park's First CS193 Homework
+
+## Some of my favorite things about CS193
+
+- All the instructors and TA's who work to teach us about CS!
+- The detailed instructions on the assignments
+- Learning how to code
+- The wonderful community of scientists
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -13,7 +21,7 @@ Syntax highlighted code block
 
 # Header 1
 ## Header 2
-### Header 3
+##### Header 3
 
 - Bulleted
 - List
